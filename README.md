@@ -5,9 +5,9 @@ Also here it is;
 
 
 First of All 
-=> npm install knex -g
+=> npm install knex -g;
 after that ..
-=> knex migrate:latest
+=> knex migrate:latest;
 
 
 // for home-page;
