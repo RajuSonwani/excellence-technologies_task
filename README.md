@@ -3,6 +3,13 @@
 
 Also here it is;
 
+
+First of All 
+=> npm install knex -g
+after that ..
+=> knex migrate:latest
+
+
 // for home-page;
 GET http://localhost:2050/
 
