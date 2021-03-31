@@ -34,16 +34,16 @@ Content-Type: application/json
 //Api-url for geting highest scoring candidate per round
 #####
 GET http://localhost:2050/apis/marks@firstRound/getHighest
-# GET http://localhost:2050/apis/marks@secondRound/getHighest
-# GET http://localhost:2050/apis/marks@thirdRound/getHighest
+GET http://localhost:2050/apis/marks@secondRound/getHighest
+GET http://localhost:2050/apis/marks@thirdRound/getHighest
 
 -----------------------------------------------------
 
 //Api-url  for average scores per round for all candidates
 ######
-# GET http://localhost:2050/apis/marks@firstRound/getAverage
+GET http://localhost:2050/apis/marks@firstRound/getAverage
 GET http://localhost:2050/apis/marks@secondRound/getAverage
-# GET http://localhost:2050/apis/marks@thirdRound/getAverage
+GET http://localhost:2050/apis/marks@thirdRound/getAverage
 
 
 
