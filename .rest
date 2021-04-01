@@ -1,4 +1,4 @@
-// for home-page;
+# for home-page;
 
 GET http://localhost:2050/
 
